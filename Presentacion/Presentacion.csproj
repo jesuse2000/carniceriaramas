@@ -81,6 +81,7 @@
     <Content Include="InsertCR.aspx" />
     <Content Include="PClientes.aspx" />
     <Content Include="PRepatidor.aspx" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

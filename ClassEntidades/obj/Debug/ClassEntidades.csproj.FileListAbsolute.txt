@@ -10,3 +10,9 @@ D:\alexi\Documents\Clases\Desarrollo Web\Carniceria Sin Bugs\Prod2SinBugs\Prod2\
 D:\alexi\Documents\Clases\Desarrollo Web\Carniceria Sin Bugs\Prod2SinBugs\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
 D:\alexi\Documents\Clases\Desarrollo Web\Carniceria Sin Bugs\Prod2SinBugs\Prod2\ClassEntidades\obj\Debug\ClassEntidades.dll
 D:\alexi\Documents\Clases\Desarrollo Web\Carniceria Sin Bugs\Prod2SinBugs\Prod2\ClassEntidades\obj\Debug\ClassEntidades.pdb
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\2019\ProyectoUnido\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.pdb
