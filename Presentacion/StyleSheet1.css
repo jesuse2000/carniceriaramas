@@ -1,0 +1,102 @@
+﻿body {
+}
+
+#formulario {
+    background-color:white;
+}
+
+.pest {
+    width: 1000px;
+    margin: 5px auto;
+    background: #189622;
+    color: white;
+    font-family: 'Global Monospace';
+    font-size: 64pt;
+    text-shadow: 1px 1px white, -1px -1px #333
+}
+
+.Info {
+    width: 1100px;
+    background: white;
+}
+
+nav {
+    position: relative;
+    z-index: 100;
+}
+
+.inab{
+    color:azure;
+}
+
+.inabSel {
+    color: azure;
+    background:#247a4b
+}
+
+.navegacion {
+    width: 1011px;
+    margin: 30px auto;
+    background: /*#007484*/ #189622;
+    /*A*/ /*B*/
+}
+
+.saltos {
+    width: 1000px;
+    margin: 30px auto;
+    background: #203864;
+}
+
+.navegacion ul {
+    list-style: none;
+}
+
+.menu > li {
+    position: relative;
+    display: inline-block;
+}
+
+    .menu > li > a {
+        display: block;
+        padding: 15px 20px;
+        color: white;
+        font-family: 'Elephant';
+        font-size: large;
+        text-decoration: none;
+    }
+
+.menu li a:hover {
+    color: /*#4bb7ff*/ #89e08d;
+    /*A*/ /*B*/
+    transition: all .5s;
+}
+
+.ident:hover {
+    background: /*#189622*/ #136c2a;
+    /*A*/ /*B*/
+}
+
+/*Submenu*/
+
+.submenu {
+    position: absolute;
+    background: /*#007484*/ #136c2a;
+    /*A*/ /*B*/
+    width: 120%;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .5s;
+}
+
+    .submenu li a {
+        display: block;
+        padding: 15px;
+        color: white;
+        font-family: 'Georgia';
+        text-decoration: none;
+    }
+
+.menu li:hover .submenu {
+    visibility: visible;
+    opacity: 1;
+}
