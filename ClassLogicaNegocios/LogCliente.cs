@@ -13,7 +13,7 @@ namespace ClassLogicaNegocios
     public class LogCliente
     {
         private ClaseConeccion objacceso =
-           new ClaseConeccion(@"Data Source=DESKTOP-20LP090; Initial Catalog=PedidosCarniceria; Integrated Security = true;");
+           new ClaseConeccion(@"Data Source=DESKTOP-UJ8LE08; Initial Catalog=PedidosCarniceria; Integrated Security = true;");
 
         public int idd(Cliente nuevo, ref string mens_salida)
         {

@@ -65,13 +65,13 @@
             <br />
             <br />
             <asp:Label ID="Label4" runat="server" Text="Celular"></asp:Label>
-            <asp:TextBox ID="txbCelular" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCelular" runat="server" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_Celular" ControlToValidate="txbCelular"
                 ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />
             <br />
             <asp:Label ID="Label5" runat="server" Text="Correo"></asp:Label>
-            <asp:TextBox ID="txbCorreo" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCorreo" runat="server" TextMode="Email"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_Correo" ControlToValidate="txbCorreo"
                 ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />
@@ -113,7 +113,7 @@
             <br />
             <br />
             <asp:Label ID="Label12" runat="server" Text="CP"></asp:Label>
-            <asp:TextBox ID="txbCP" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCP" runat="server" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_CP" ControlToValidate="txbCP"
                 ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />

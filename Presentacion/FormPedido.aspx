@@ -50,7 +50,7 @@
             <br />
             <br />
             <asp:Label ID="Label1" runat="server" Text="Telefono: "></asp:Label>
-            <asp:TextBox ID="txbTelefono" runat="server" Enabled="False"></asp:TextBox>
+            <asp:TextBox ID="txbTelefono" runat="server" Enabled="False" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_Colonia" ControlToValidate="txbTelefono"
             ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />
@@ -79,13 +79,13 @@
             <br />
             <br />
             Peso:&nbsp;
-            <asp:TextBox ID="txbPeso" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbPeso" runat="server" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator1" ControlToValidate="txbTelefono"
             ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />
             <br />
             Cantidad (Precio):&nbsp;
-            <asp:TextBox ID="txbCantidad" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCantidad" runat="server" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator2" ControlToValidate="txbTelefono"
             ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />

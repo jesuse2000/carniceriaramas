@@ -48,7 +48,7 @@
             <h3 class="pest">Envios de pedido y Actualizacion de la entrega</h3>
             <br />
             <br />
-            Telefono del Cliente <asp:TextBox ID="txbTel" runat="server"></asp:TextBox>
+            Telefono del Cliente <asp:TextBox ID="txbTel" runat="server" TextMode="Number"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_Colonia" ControlToValidate="txbTel"
             ErrorMessage="*requerido" ForeColor="Red" ValidationGroup="form_ejm"></asp:RequiredFieldValidator>
             <br />

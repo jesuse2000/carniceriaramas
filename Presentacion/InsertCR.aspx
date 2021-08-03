@@ -62,17 +62,17 @@
             <br />
             Celular:
            
-            <asp:TextBox ID="txbCelular" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCelular" runat="server" TextMode="Number"></asp:TextBox>
             <br />
             <br />
             Correo:
            
-            <asp:TextBox ID="txbCorreo" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbCorreo" runat="server" TextMode="Email"></asp:TextBox>
             <br />
             <br />
             Años de experiencia
            
-            <asp:TextBox ID="txbAnios" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txbAnios" runat="server" TextMode="Number"></asp:TextBox>
             <br />
             <br />
             Licencia

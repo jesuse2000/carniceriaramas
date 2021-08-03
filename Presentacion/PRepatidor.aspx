@@ -47,7 +47,8 @@
             <h2 class="pest">Consulta de Repartidores</h2>
             <br />
             <br />
-            <asp:GridView ID="gvRepartidores" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvRepartidores_SelectedIndexChanged">
+            <asp:GridView ID="gvRepartidores" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvRepartidores_SelectedIndexChanged" CellPadding="4" ForeColor="#333333" GridLines="None">
+                <AlternatingRowStyle BackColor="White" />
                 <Columns>
                     <asp:CommandField SelectText="Seleccionar Repartidor" ShowSelectButton="True" />
                     <asp:BoundField DataField="id_Repartidor" HeaderText="Identificador del Repartidor" />
@@ -55,9 +56,20 @@
                     <asp:BoundField DataField="Celular" HeaderText="Celular" />
                     <asp:BoundField DataField="Licencia" HeaderText="Licencia" />
                 </Columns>
+                <EditRowStyle BackColor="#7C6F57" />
+                <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
+                <RowStyle BackColor="#E3EAEB" />
+                <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+                <SortedAscendingCellStyle BackColor="#F8FAFA" />
+                <SortedAscendingHeaderStyle BackColor="#246B61" />
+                <SortedDescendingCellStyle BackColor="#D4DFE1" />
+                <SortedDescendingHeaderStyle BackColor="#15524A" />
             </asp:GridView>
             <br />
-            <asp:GridView ID="gvEntrega" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvEntrega_SelectedIndexChanged">
+            <asp:GridView ID="gvEntrega" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvEntrega_SelectedIndexChanged" CellPadding="4" ForeColor="#333333" GridLines="None">
+                <AlternatingRowStyle BackColor="White" />
                 <Columns>
                     <asp:CommandField SelectText="Seleccionar Entrega de Pedido" ShowSelectButton="True" />
                     <asp:BoundField DataField="id_Entrega" HeaderText="Identificador de Entrega" />
@@ -67,9 +79,20 @@
                     <asp:BoundField DataField="SeEntrego" HeaderText="Hora de Entrega" />
                     <asp:BoundField DataField="Estado" HeaderText="Estado en que se entrego" />
                 </Columns>
+                <EditRowStyle BackColor="#7C6F57" />
+                <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
+                <RowStyle BackColor="#E3EAEB" />
+                <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+                <SortedAscendingCellStyle BackColor="#F8FAFA" />
+                <SortedAscendingHeaderStyle BackColor="#246B61" />
+                <SortedDescendingCellStyle BackColor="#D4DFE1" />
+                <SortedDescendingHeaderStyle BackColor="#15524A" />
             </asp:GridView>
             <br />
-            <asp:GridView ID="gvPedidos" runat="server" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" AutoGenerateColumns="False">
+            <asp:GridView ID="gvPedidos" runat="server" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None">
+                <AlternatingRowStyle BackColor="White" />
                 <Columns>
                     <asp:CommandField SelectText="Seleccionar Pedido" ShowSelectButton="True" />
                     <asp:BoundField DataField="id_Pedido" HeaderText="Identificador de Pedido" />
@@ -79,9 +102,20 @@
                     <asp:BoundField DataField="Envio" HeaderText="Envio" />
                     <asp:BoundField DataField="Pago" HeaderText="Forma de Pago" />
                 </Columns>
+                <EditRowStyle BackColor="#7C6F57" />
+                <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
+                <RowStyle BackColor="#E3EAEB" />
+                <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+                <SortedAscendingCellStyle BackColor="#F8FAFA" />
+                <SortedAscendingHeaderStyle BackColor="#246B61" />
+                <SortedDescendingCellStyle BackColor="#D4DFE1" />
+                <SortedDescendingHeaderStyle BackColor="#15524A" />
             </asp:GridView>
             <br />
-            <asp:GridView ID="gvProducto" runat="server" AutoGenerateColumns="False">
+            <asp:GridView ID="gvProducto" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None">
+                <AlternatingRowStyle BackColor="White" />
                 <Columns>
                     <asp:BoundField DataField="id_prod" HeaderText="Identificador del Producto" />
                     <asp:BoundField DataField="NombreProd" HeaderText="Nombre del Producto" />
@@ -91,6 +125,16 @@
                     <asp:BoundField DataField="NotaEspecial" HeaderText="Nota Especial" />
                     <asp:BoundField DataField="F_Pedido" HeaderText="Identificador del Pedido" />
                 </Columns>
+                <EditRowStyle BackColor="#7C6F57" />
+                <FooterStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <HeaderStyle BackColor="#1C5E55" Font-Bold="True" ForeColor="White" />
+                <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" />
+                <RowStyle BackColor="#E3EAEB" />
+                <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+                <SortedAscendingCellStyle BackColor="#F8FAFA" />
+                <SortedAscendingHeaderStyle BackColor="#246B61" />
+                <SortedDescendingCellStyle BackColor="#D4DFE1" />
+                <SortedDescendingHeaderStyle BackColor="#15524A" />
             </asp:GridView>
             <br />
             <br />

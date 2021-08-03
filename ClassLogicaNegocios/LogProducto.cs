@@ -13,7 +13,7 @@ namespace ClassLogicaNegocios
     public class LogProducto
     {
         private ClaseConeccion objacceso =
-           new ClaseConeccion(@"Data Source=DESKTOP-20LP090; Initial Catalog=PedidosCarniceria; Integrated Security = true;");
+           new ClaseConeccion(@"Data Source=DESKTOP-UJ8LE08; Initial Catalog=PedidosCarniceria; Integrated Security = true;");
         public Boolean Insert(Producto pd, int idC, ref string mens_salida)
         {
             SqlParameter[] params1 = new SqlParameter[7];
