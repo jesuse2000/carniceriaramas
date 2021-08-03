@@ -249,3 +249,45 @@ C:\Users\jaque\Documents\Carniceria\Carniceria_1\Presentacion\obj\Debug\Presenta
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\Presentacion\obj\Debug\Presentacion.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\Presentacion.dll.config
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\Presentacion.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\Presentacion.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\csc.exe
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\csc.exe.config
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\csc.rsp
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\csi.exe
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\csi.rsp
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.AppContext.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\vbc.exe
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\vbc.exe.config
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\vbc.rsp
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassEntidades.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassLogicaNegocios.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassAccesoSQL.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassEntidades.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassLogicaNegocios.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\bin\ClassAccesoSQL.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\obj\Debug\Presentacion.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\Presentacion\obj\Debug\Presentacion.pdb

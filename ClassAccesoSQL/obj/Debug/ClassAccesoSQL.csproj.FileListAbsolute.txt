@@ -26,3 +26,9 @@ C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassAccesoSQL\bin\Debug\ClassA
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csprojAssemblyReference.cache
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.AssemblyReference.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb

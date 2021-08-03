@@ -52,3 +52,14 @@ C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\C
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
 C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassEntidades.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassEntidades.pdb
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.AssemblyReference.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
+D:\alexi\Documents\Copia Final\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
