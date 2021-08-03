@@ -44,6 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
+                  <h2 class="pest">Consultas</h2>
+                  </div>
             <br />
             Que pedidos desea buscar:
             <asp:DropDownList ID="ddlPBuscar" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlPBuscar_SelectedIndexChanged">

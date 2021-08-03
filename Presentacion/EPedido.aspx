@@ -45,7 +45,9 @@
     <form id="form1" runat="server">
         
         <div class="container" id="formulario">
+              <div class="container">
             <h3 class="pest">Envios de pedido y Actualizacion de la entrega</h3>
+                  </div>
             <br />
             <br />
             Telefono del Cliente <asp:TextBox ID="txbTel" runat="server" TextMode="Number"></asp:TextBox>

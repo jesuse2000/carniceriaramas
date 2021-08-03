@@ -42,3 +42,13 @@ D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassLogicaNeg
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassEntidades.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\bin\Debug\ClassEntidades.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csprojAssemblyReference.cache
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb

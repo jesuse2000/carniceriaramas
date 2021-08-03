@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
             <h3 class="pest">CLIENTE</h3>
+                  </div>
             <br />
             <asp:Label ID="Label1" runat="server" Text="Nombre"></asp:Label>
             <asp:TextBox ID="txbNombre" runat="server"></asp:TextBox>
