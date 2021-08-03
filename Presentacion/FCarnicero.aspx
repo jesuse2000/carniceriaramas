@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
             <h2 class="pest">CRUD - Carnicero</h2>
+                  </div>
             <br />
             <asp:GridView ID="gvCarnicero" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvCarnicero_SelectedIndexChanged">
                 <Columns>

@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+            <div class="container">
             <H2 class="pest">Entrega de Pedidos</H2><br />
+            </div>
             <br />
 
             <asp:GridView ID="gvPedidos" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvPedidos_SelectedIndexChanged" CellPadding="4" ForeColor="#333333" GridLines="None">

@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
             <h2 class="pest">Pedido</h2>
+                  </div>
             <br />
             <asp:Label ID="lbTel" runat="server" Text="Label"></asp:Label>
             <br />

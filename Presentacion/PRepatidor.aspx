@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
             <h2 class="pest">Consulta de Repartidores</h2>
+                  </div>
             <br />
             <br />
             <asp:GridView ID="gvRepartidores" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvRepartidores_SelectedIndexChanged" CellPadding="4" ForeColor="#333333" GridLines="None">

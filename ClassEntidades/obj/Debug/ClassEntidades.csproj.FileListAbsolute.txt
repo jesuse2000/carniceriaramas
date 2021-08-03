@@ -21,3 +21,8 @@ D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassEntidades
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.dll
 D:\alexi\Documents\Clases\Desarrollo Web\Nueva copia\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassEntidades\bin\Debug\ClassEntidades.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassEntidades\bin\Debug\ClassEntidades.pdb
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.csprojAssemblyReference.cache
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.dll
+C:\Users\jaque\Documents\Carniceria\Carniceria_1\ClassEntidades\obj\Debug\ClassEntidades.pdb

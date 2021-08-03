@@ -44,7 +44,9 @@
     <!--Fin de barra de Menu-->
     <form id="form1" runat="server">
         <div class="container" id="formulario">
+              <div class="container">
             <h2 class="pest">CRUD - Productos</h2>
+                  </div>
             <br />
             <asp:GridView ID="gvProductos" runat="server" AutoGenerateColumns="False" OnSelectedIndexChanged="gvProductos_SelectedIndexChanged" CellPadding="4" ForeColor="#333333" GridLines="None">
                 <AlternatingRowStyle BackColor="White" />
